@@ -1,0 +1,4 @@
+# Core (Tkinter comes with Python, no pip install needed)
+# Optional developer tools
+pytest    # for unit testing
+black     # for code formatting
